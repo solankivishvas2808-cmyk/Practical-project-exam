@@ -142,48 +142,6 @@ Calories burned per recorded activity minute:
 
 ---
 
-## 📈 Visual Analytics
-
-### 1. Total Time Spent by Activity
-
-Shows the total number of minutes spent on each activity.
-
-![Total Time Spent by Activity](charts/duration_by_activity.png)
-
-**Observation:** Cycling has the highest total recorded duration at **155 minutes**, followed by Running at **150 minutes**.
-
----
-
-### 2. Calories Burned Over Time
-
-Shows the recorded calorie values across the activity timeline.
-
-![Calories Burned Over Time](charts/calories_over_time.png)
-
-**Observation:** The highest single-session calorie value in the supplied data is **500 calories**, recorded for Cycling on September 8, 2026.
-
----
-
-### 3. Activity Session Distribution
-
-Shows how the 15 recorded sessions are distributed across activity types.
-
-![Activity Session Distribution](charts/activity_distribution.png)
-
-**Observation:** Running is the most frequently recorded activity with **4 sessions**. Cycling, Walking, and Yoga each have **3 sessions**, while Strength Training has **2**.
-
----
-
-### 4. Duration vs Calories Burned
-
-Shows the relationship between session duration and recorded calories.
-
-![Duration vs Calories Burned](charts/duration_vs_calories.png)
-
-This visualization helps evaluate whether longer sessions in the dataset generally correspond to higher recorded calorie values.
-
----
-
 ## 🔬 Activity-Level Analysis
 
 The notebook groups records by activity and calculates:
@@ -472,6 +430,8 @@ This project demonstrates practical experience with:
 ---
 
 ## 👨‍💻 Project Files
+##solanki vishvaskumar
+##guide by Girish sir gondaliya
 
 | File | Purpose |
 |---|---|
