@@ -431,6 +431,9 @@ This project demonstrates practical experience with:
 
 ## 👨‍💻 Project Files
 
+vishvashkumar solanki
+guidens bby Girish sir gondaliya
+
 | File | Purpose |
 |---|---|
 | `Personal_Fitness_Tracker_Dashboard.ipynb` | Main application, analysis, tests, and dashboard |
